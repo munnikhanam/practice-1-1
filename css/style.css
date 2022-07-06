@@ -1,0 +1,41 @@
+body{
+   margin: 0;
+   font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 65px;
+    font-weight: 500;
+
+}
+.color{
+    color: coral;
+}
+p{
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 50px;
+}
+.button{
+   text-decoration: none;
+   color: white;
+   background-image: linear-gradient(#ff7b00 , #f72f0c);
+   border-radius: 20px;
+   padding: 10px 20px;
+
+}
+.eat-healthy{
+    display: flex; 
+}
+.half{
+    width: 50%;
+}
+.text{
+    margin-left: 50px;
+    margin-top: 100px;
+   
+}
+.half img{
+    width: 100%;
+}
+
+
